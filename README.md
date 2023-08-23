@@ -2,7 +2,7 @@
 
 ## What's FOSA?
 An innovative approach that amalgamates the strengths of Full Information Maximum Likelihood (FIML) estimation with the capabilities of self-attention neural networks. 
-[Link to the PDF](Fig/FOSA_framework.pdf)
+![Link to the PDF](Fig/FOSA_framework.pdf)
 
 ## Why FOSA?
 Our comprehensive experiments on both simulated and real-world datasets underscore FOSA’s pronounced advantages over traditional FIML techniques, encapsulating facets of accuracy, computational efficiency, and adaptability to diverse data structures.
