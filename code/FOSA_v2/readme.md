@@ -13,3 +13,9 @@ Very easy.
    or you can download Test_datasets as sample data.
 4. Change the dataset location and other inputs in FOSA_test.py, which is an easy understood sample.
 5. In your terminal: $ python FOSA_test.py
+
+# Python environment
+- PyTorch: the structure for Self-Attention
+- sklearn: for data proceeding
+- semopy: for FIML estimation
+- numpy, pandas, matplotlib: our honest old friends always.
