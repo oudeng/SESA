@@ -12,4 +12,4 @@ In the folder **/paper**, or see it at arXiv: [https://arxiv.org/submit/5075308
 ](https://arxiv.org/abs/2308.12388)
 ## FOSA code
 In the folder **/code**. 
-<span style="color: red; ">FOSA_v2 recommended, as an utility with easy understood sample py code</span>.
+***FOSA_v2 recommended, as an utility with easy understood sample py code***.
