@@ -161,13 +161,6 @@ def introduce_missing(data, missing_rate=0.4):
         modified_data[col][mask] = np.nan
     return modified_data
 
-def introduce_missing(data, missing_rate=0.4):
-    modified_data = data.copy()
-    for col in data.columns:
-        mask = (np.random.random(len(data)) < missing_rate)
-        modified_data[col][mask] = np.nan
-    return modified_data
-
 ###########################################
 
 class FOSA():
