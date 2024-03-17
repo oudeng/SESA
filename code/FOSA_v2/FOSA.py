@@ -1,5 +1,6 @@
 '''
 FOSA (Full information maximum likelihood (FIML) Optimized Self-Attention)
+ver 2.0
 
 # What is FOSA?
   A python programme for missing data imputation.
