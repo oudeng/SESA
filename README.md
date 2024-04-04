@@ -9,6 +9,6 @@ Our comprehensive experiments on both simulated and real-world datasets undersco
 ![Experiment of the SESA and Baselines Methodologies](Fig/Fig_Exp.png)
 
 ## SESA paper (Under Review)
-In the folder **/paper**, or see it at arXiv: [https://arxiv.org/submit/5075308
-](https://arxiv.org/abs/2308.12388)
+In the folder **/paper**, or see it at [arXiv](https://arxiv.org/abs/2308.12388).
+
 ## SESA code (Updated code coming soon. At present, the old version of SESA is FOSA_v2.)
