@@ -11,4 +11,4 @@ Our comprehensive experiments on both simulated and real-world datasets undersco
 ## SESA paper (Under Review)
 In the folder **/paper**, or see it at [arXiv](https://arxiv.org/abs/2308.12388).
 
-## SESA code (Updated code coming soon. At present, the old version of SESA is FOSA_v2.)
+## SESA code (Will be updated soon. Bcz I am struggling on another paper. At present, the old version of SESA is FOSA_v2.)
